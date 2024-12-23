@@ -1,0 +1,5 @@
+Hey!
+I have conducted a EDA with NASA Planetary Exploration Budget.
+I have used three tables inflation,mission budget and misison details.
+I have also create a data visualization names a BarGraph_1 and BarGraph_2 using plotly module. So, that you can understand data clearly.
+>> All files are uploaded at Github SQL (Query),CSV(Dataset) and Python(Data Visualization).  
